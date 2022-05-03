@@ -1,2 +1,3 @@
 # mystuff
-random things
+My public site
+Learn more about me here!
